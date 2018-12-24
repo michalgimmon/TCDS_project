@@ -1,0 +1,17 @@
+# local package
+-e .
+
+# external requirements
+numpy
+scipy
+statsmodels
+pandas
+matplotlib
+seaborn
+bokeh
+plotly
+sklearn
+tensorflow
+keras
+fancyimpute
+pylab
